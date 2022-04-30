@@ -1,5 +1,5 @@
 # hack-assembler
-Assembler written in Go for compiling the HACK assembly language
+Assembler written in Go for the HACK computer machine language instruction set 
 
 ### Usage 
 
